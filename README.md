@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fulvio Leo (Penfore)
+# 👋 Hi, I'm Fúlvio Leo
 
 I'm a **Software Developer** from Brazil with experience in **Mobile and Web Development**.
 Currently, I work professionally with **Flutter**, **Angular** and **.NET**, and I'm building a strong portfolio in **Mobile (Flutter, Kotlin, Swift)** and **Ruby on Rails**.
