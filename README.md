@@ -22,7 +22,7 @@ Here are some of the projects I'm developing and maintaining:
 - 🎨 [**dither_it**](https://github.com/Penfore/dither_it) ✅ *(Ready for use)*
   A Dart library implementing multiple dithering algorithms, including Floyd-Steinberg, Riemersma, and ordered dithering.
 
-- 📱 [**Our Pomodor (Flutter)**](https://github.com/Penfore/pomodoro-flutter) *(Ready for use)*
+- 📱 [**Our Pomodor (Flutter)**](https://github.com/Penfore/pomodoro-flutter) ✅ *(Ready for use)*
   A simple Pomodoro timer app built with Flutter, open-source and focused on productivity.
 
 - 📱 [**Our Currency Converter (Swift)**](https://github.com/Penfore/currency-converter-swift) *(Work in Progress)*
