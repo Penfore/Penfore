@@ -22,16 +22,16 @@ Here are some of the projects I'm developing and maintaining:
 - 🎨 [**dither_it**](https://github.com/Penfore/dither_it) *(Ready for use)*
   A Dart library implementing multiple dithering algorithms, including Floyd-Steinberg, Riemersma, and ordered dithering.
 
-- 📱 [**Pomodoro Flutter**](https://github.com/Penfore/pomodoro-flutter) *(Work in Progress)*
+- 📱 [**Our Pomodor (Flutter)**](https://github.com/Penfore/pomodoro-flutter) *(Ready for use)*
   A simple Pomodoro timer app built with Flutter, open-source and focused on productivity.
 
-- 📱 [**Currency Converter Swift**](https://github.com/Penfore/currency-converter-swift) *(Work in Progress)*
+- 📱 [**Our Currency Converter (Swift)**](https://github.com/Penfore/currency-converter-swift) *(Work in Progress)*
   iOS app built with SwiftUI to convert currencies, with API integration and offline fallback.
 
-- 🌐 [**Our Projects Rails**](https://github.com/Penfore/our-projects-rails) *(Work in Progress)*
+- 🌐 [**Our Projects (Ruby on Rails)**](https://github.com/Penfore/our-projects-rails) *(Work in Progress)*
   A Trello-like project management system using Rails 8, Hotwire, TailwindCSS, Devise, and PostgreSQL.
 
-- 📊 Our Finances (Kotlin Jetpack Compose) *(coming soon)*
+- 📊 [**Our Finances (Kotlin Jetpack Compose)**](https://github.com/Penfore/our-finances) *(Work in Progress)*
   Personal finance app for Android, currently in development.
 
 ---
