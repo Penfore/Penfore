@@ -19,7 +19,7 @@ My goal is to create software that helps people and also share knowledge through
 ## 📂 Featured Projects
 Here are some of the projects I'm developing and maintaining:
 
-- 🎨 [**dither_it**](https://github.com/Penfore/dither_it) *(Ready for use)*
+- 🎨 [**dither_it**](https://github.com/Penfore/dither_it) ✅ *(Ready for use)*
   A Dart library implementing multiple dithering algorithms, including Floyd-Steinberg, Riemersma, and ordered dithering.
 
 - 📱 [**Our Pomodor (Flutter)**](https://github.com/Penfore/pomodoro-flutter) *(Ready for use)*
@@ -48,4 +48,4 @@ I also plan to collaborate more deeply with projects I admire, such as [Casa](ht
 
 ---
 
-✨ Always learning, always building.
+✨ Always learning, always building. Open to collaboration and contributions.
