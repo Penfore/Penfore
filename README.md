@@ -25,7 +25,7 @@ Here are some of the projects I'm developing and maintaining:
 - 📱 [**Our Pomodor (Flutter)**](https://github.com/Penfore/pomodoro-flutter) ✅ *(Ready for use)*
   A simple Pomodoro timer app built with Flutter, open-source and focused on productivity.
 
-- 📱 [**Our Currency Converter (Swift)**](https://github.com/Penfore/currency-converter-swift) *(Work in Progress)*
+- 📱 [**Our Currency Converter (Swift)**](https://github.com/Penfore/our-currency-converter) *(Work in Progress)*
   iOS app built with SwiftUI to convert currencies, with API integration and offline fallback.
 
 - 🌐 [**Our Projects (Ruby on Rails)**](https://github.com/Penfore/our-projects-rails) *(Work in Progress)*
