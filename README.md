@@ -34,6 +34,8 @@ Here are some of the projects I'm developing and maintaining:
 
 - 📱 [**Our Pomodor (Flutter)**](https://github.com/Penfore/our-pomodoro) ✅ *(Ready for use)*
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+  ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
   ![GitHub release](https://img.shields.io/github/v/release/Penfore/our-pomodoro?style=flat)
   A simple and effective Pomodoro timer app built with Flutter. Open-source productivity tool with clean Material Design interface.
 
