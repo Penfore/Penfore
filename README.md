@@ -2,7 +2,6 @@
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fúlvio-leo-5885491a6/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Penfore)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fulvioleo.dev@pm.me)
 
 ---
@@ -39,16 +38,18 @@ Here are some of the projects I'm developing and maintaining:
   A simple and effective Pomodoro timer app built with Flutter. Open-source productivity tool with clean Material Design interface.
 
 - 📱 [**Our Currency Converter (Swift)**](https://github.com/Penfore/our-currency-converter) *(Work in Progress)*
-  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-  iOS app built with SwiftUI following MVVM architecture. Features real-time currency conversion with API integration, conversion history, and secure offline fallback.
+    ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+    ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+    iOS app built with SwiftUI following MVVM architecture. Features real-time currency conversion with API integration, conversion history, and secure offline fallback.
 
 - 🌐 [**Our Projects (Ruby on Rails)**](https://github.com/Penfore/our-projects) *(Work in Progress)*
   ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
   A Trello-like project management system using Rails 8, Hotwire (Turbo + Stimulus), TailwindCSS, Devise, and SQLite.
 
 - 📊 [**Our Finances (Kotlin Jetpack Compose)**](https://github.com/Penfore/our-finances) *(Work in Progress)*
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-  Modern personal finance management app with Clean Architecture, MVVM, Room database, and comprehensive transaction tracking. Features Material Design 3 and complete test coverage.
+    ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+    ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+    Modern personal finance management app with Clean Architecture, MVVM, Room database, and comprehensive transaction tracking. Features Material Design 3 and complete test coverage.
 
 ---
 
