@@ -1,15 +1,5 @@
 # 👋 Hi, I'm Fúlvio Leo
 
-[![GitHub followers](https://img.shields---
-
-## 📊 GitHub Stats
-
-![Fúlvio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Penfore&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Penfore&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fúlvio-leo-5885491a6/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Penfore)
@@ -17,9 +7,7 @@
 
 ---
 
-✨ **Always learning, always building.** Open to collaboration and contributions.ers/Penfore?style=social)](https://github.com/Penfore)
-[![GitHub stars](https://img.shields.io/github/stars/Penfore?style=social)](https://github.com/Penfore)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fúlvio-leo-5885491a6/)
+✨ **Always learning, always building.** Open to collaboration and contributions
 
 I'm a **Software Developer** from Brazil with experience in **Mobile and Web Development**.
 Currently, I work professionally with **Flutter**, **Angular** and **.NET**, and I'm building a strong portfolio in **Mobile (Flutter, Kotlin, Swift)** and **Ruby on Rails**.
@@ -45,15 +33,16 @@ Here are some of the projects I'm developing and maintaining:
   ![GitHub release](https://img.shields.io/github/v/release/Penfore/dither_it?style=flat)
   A comprehensive Dart library implementing multiple dithering algorithms (Floyd-Steinberg, Riemersma, Ordered). Perfect for image processing with high performance and pure Dart implementation.
 
-- 📱 [**Our Pomodor (Flutter)**](https://github.com/Penfore/pomodoro-flutter) ✅ *(Ready for use)*
+- 📱 [**Our Pomodor (Flutter)**](https://github.com/Penfore/our-pomodoro) ✅ *(Ready for use)*
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+  ![GitHub release](https://img.shields.io/github/v/release/Penfore/our-pomodoro?style=flat)
   A simple and effective Pomodoro timer app built with Flutter. Open-source productivity tool with clean Material Design interface.
 
 - 📱 [**Our Currency Converter (Swift)**](https://github.com/Penfore/our-currency-converter) *(Work in Progress)*
   ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
   iOS app built with SwiftUI following MVVM architecture. Features real-time currency conversion with API integration, conversion history, and secure offline fallback.
 
-- 🌐 [**Our Projects (Ruby on Rails)**](https://github.com/Penfore/our-projects-rails) *(Work in Progress)*
+- 🌐 [**Our Projects (Ruby on Rails)**](https://github.com/Penfore/our-projects) *(Work in Progress)*
   ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
   A Trello-like project management system using Rails 8, Hotwire (Turbo + Stimulus), TailwindCSS, Devise, and SQLite.
 
@@ -82,17 +71,11 @@ I believe in the power of collaborative development and enjoy contributing to pr
 
 ---
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
 ![Fúlvio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Penfore&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Penfore&layout=compact&theme=default&hide_border=true)
-
----
-
-## �📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/fúlvio-leo-5885491a6/)
-- [GitHub](https://github.com/Penfore)
 
 ---
 
