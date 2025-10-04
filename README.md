@@ -1,13 +1,23 @@
 # 👋 Hi, I'm Fúlvio Leo
 
-[![GitHub followers](https://img.shields.io/github/f## 📫 Connect with me
+[![GitHub followers](https://img.shields---
+
+## 📊 GitHub Stats
+
+![Fúlvio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Penfore&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Penfore&layout=compact&theme=default&hide_border=true)
+
+---
+
+## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fúlvio-leo-5885491a6/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Penfore)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fulvioleo.dev@pm.me)
 
 ---
 
-✨ **Always learning, always building.** Open to collaboration and contributions.s/Penfore?style=social)](https://github.com/Penfore)
+✨ **Always learning, always building.** Open to collaboration and contributions.ers/Penfore?style=social)](https://github.com/Penfore)
 [![GitHub stars](https://img.shields.io/github/stars/Penfore?style=social)](https://github.com/Penfore)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fúlvio-leo-5885491a6/)
 
@@ -15,7 +25,7 @@ I'm a **Software Developer** from Brazil with experience in **Mobile and Web Dev
 Currently, I work professionally with **Flutter**, **Angular** and **.NET**, and I'm building a strong portfolio in **Mobile (Flutter, Kotlin, Swift)** and **Ruby on Rails**.
 
 I'm passionate about **finance, technology, and open source**.
-My goal is to create software that helps people and also share knowledge through contributions., I'm Fúlvio Leo
+My goal is to create software that helps people and also share knowledge through contributions.
 
 ---
 
@@ -32,7 +42,6 @@ Here are some of the projects I'm developing and maintaining:
 
 - 🎨 [**dither_it**](https://github.com/Penfore/dither_it) ✅ *(Ready for use)*
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-  ![GitHub stars](https://img.shields.io/github/stars/Penfore/dither_it?style=flat)
   ![GitHub release](https://img.shields.io/github/v/release/Penfore/dither_it?style=flat)
   A comprehensive Dart library implementing multiple dithering algorithms (Floyd-Steinberg, Riemersma, Ordered). Perfect for image processing with high performance and pure Dart implementation.
 
@@ -41,7 +50,6 @@ Here are some of the projects I'm developing and maintaining:
   A simple and effective Pomodoro timer app built with Flutter. Open-source productivity tool with clean Material Design interface.
 
 - 📱 [**Our Currency Converter (Swift)**](https://github.com/Penfore/our-currency-converter) *(Work in Progress)*
-  ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
   ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
   iOS app built with SwiftUI following MVVM architecture. Features real-time currency conversion with API integration, conversion history, and secure offline fallback.
 
@@ -50,7 +58,6 @@ Here are some of the projects I'm developing and maintaining:
   A Trello-like project management system using Rails 8, Hotwire (Turbo + Stimulus), TailwindCSS, Devise, and SQLite.
 
 - 📊 [**Our Finances (Kotlin Jetpack Compose)**](https://github.com/Penfore/our-finances) *(Work in Progress)*
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
   Modern personal finance management app with Clean Architecture, MVVM, Room database, and comprehensive transaction tracking. Features Material Design 3 and complete test coverage.
 
