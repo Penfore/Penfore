@@ -44,14 +44,14 @@ Here are some of the projects I'm developing and maintaining:
     ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
     iOS app built with SwiftUI following MVVM architecture. Features real-time currency conversion with API integration, conversion history, and secure offline fallback.
 
-- 🌐 [**Our Projects (Ruby on Rails)**](https://github.com/Penfore/our-projects) *(Work in Progress)*
-  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
-  A Trello-like project management system using Rails 8, Hotwire (Turbo + Stimulus), TailwindCSS, Devise, and SQLite.
-
 - 📊 [**Our Finances (Kotlin Jetpack Compose)**](https://github.com/Penfore/our-finances) *(Work in Progress)*
     ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
     ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
     Modern personal finance management app with Clean Architecture, MVVM, Room database, and comprehensive transaction tracking. Features Material Design 3 and complete test coverage.
+
+- 🌐 [**Our Projects (Ruby on Rails)**](https://github.com/Penfore/our-projects) *(Discontinued - Archived)*
+  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
+  A Trello-like project management system using Rails 8, Hotwire (Turbo + Stimulus), TailwindCSS, Devise, and SQLite.
 
 ---
 
