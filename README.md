@@ -9,7 +9,7 @@
 **Always learning, always building.** Open to collaboration and contributions.
 
 I'm a **Software Developer** from Brazil with experience in **Mobile and Web Development**.
-Currently, I work professionally with **Flutter**, **Angular** and **.NET**, and I'm building a strong portfolio in **Mobile (Flutter, Kotlin, Swift)** and **Ruby on Rails**.
+Currently, I work professionally with **Flutter**, **Angular** and **.NET**, and I'm building a strong portfolio in **Mobile (Flutter, Kotlin, Swift)**, **Web (Angular)** and **Backend (.NET)**.
 
 I'm passionate about **finance, technology, and open source**.
 My goal is to create software that helps people and also share knowledge through contributions.
@@ -18,8 +18,8 @@ My goal is to create software that helps people and also share knowledge through
 
 ## 🚀 Tech Stack
 - **Mobile:** Flutter, Kotlin (Jetpack Compose), Swift (SwiftUI)
-- **Web / Backend:** .NET, Angular, Ruby on Rails, Hotwire (Turbo + Stimulus)
-- **Databases:** PostgreSQL, MySQL, SQLite
+- **Web / Backend:** .NET, Angular, Ruby on Rails
+- **Databases:** PostgreSQL, SQLite
 - **Languages:** Portuguese (native), English (fluent), learning German
 
 ---
@@ -66,12 +66,6 @@ I have contributed with **translations** in different projects, particularly foc
 
 I believe in the power of collaborative development and enjoy contributing to projects that make technology more accessible to users worldwide.
 
-### 🎯 Contribution Philosophy
-- **Quality over Quantity**: Focus on meaningful contributions that add real value
-- **Documentation Matters**: Well-documented code helps everyone
-- **Testing is Essential**: Comprehensive test coverage ensures reliability
-- **AI-Assisted Development**: Embrace modern tools while maintaining human oversight and creativity
-
 ---
 
 ## 📊 GitHub Stats
@@ -82,4 +76,4 @@ I believe in the power of collaborative development and enjoy contributing to pr
 
 ---
 
-✨ Always learning, always building. Open to collaboration and contributions.
+Always learning, always building. Open to collaboration and contributions.
